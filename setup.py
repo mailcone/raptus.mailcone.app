@@ -30,6 +30,7 @@ setup(name='raptus.mailcone.app',
           'grokcore.startup',
           'raptus.mailcone.core',
           'raptus.mailcone.layout',
+          'raptus.mailcone.auth',
       ],
       entry_points="""
       # -*- Entry points: -*-
